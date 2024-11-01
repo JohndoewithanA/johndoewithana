@@ -13,6 +13,8 @@ My goal is to deepen my knowledge and become an active member of the TON communi
 
 Additionally, I have a strong interest in security across various domains. I believe this is an underdeveloped area crucial for all sectors, given their significant dependence on robust security measures.
 
+Written by AI cuz I am lazy, but it summarized what I wanted well 😴
+
 - 🌍  Based in the UAE
 - ✉️  Contact me at [andyznamenski@gmail.com](mailto:andyznamenski@gmail.com)
 - 🚀  Currently working on [TON School](http://t.me/ruskiyarab)
