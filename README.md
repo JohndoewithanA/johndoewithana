@@ -2,10 +2,9 @@
 
 ![Header](./github-header-image.png)
 
-![Animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+---
 
-# TON Developer and Infosec Enthusiast ![Animation](https://github.com/user-attachments/assets/55ff5f45-c4ea-463e-a28c-8a94d16b33c3)
-
+# TON Developer and Infosec Enthusiast 
 
 ## About Me
 I’ve been part of the coding community for about five years, focusing on mastering the basics and understanding fundamental concepts. Recently, I've developed a keen interest in the **TON Blockchain**, drawn to its innovative ideas and simplicity.
